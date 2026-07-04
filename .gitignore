@@ -1,0 +1,4 @@
+/app
+Dockerfile-On-Vercel
+.vercel
+.env*.local
